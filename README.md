@@ -22,10 +22,6 @@ The goal of this practice is to understand how LLMs work at a basic level and ho
 - OpenAI Python SDK
 - Environment variables (`.env`)
 
-## 📚 Learning Resource
-
-**Tutorial:** [LLM Fundamentals Crash Course For Beginners 2026](https://youtu.be/YHNi88FaGug)
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
